@@ -1,15 +1,14 @@
 {
-    "updateInfo":{
-        "appName": "theVideoPoint",
-        "appDescription": "",
-        "packageName": "com.thevideopoint",
-        "versionCode": "1",
-        "versionName": "0.0.1",
-        "forceUpdate": true,
-        "autoUpdate": true,
-        "apkUrl": "https://raw.github.com/sleonidy/app-debug.apk",
-        "updateTips": {
-
-        }
-    }
+  "updateInfo": {
+    "apkUrl": "https://raw.github.com/sleonidy/app-debug.apk",
+    "appDescription": "",
+    "appName": "theVideoPoint",
+    "autoUpdate": true,
+    "forceUpdate": true,
+    "packageName": "com.thevideopoint",
+    "updateTips": {
+    },
+    "versionCode": "1",
+    "versionName": "0.0.1"
+  }
 }
